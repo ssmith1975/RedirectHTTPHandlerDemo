@@ -1,0 +1,13 @@
+﻿body {
+    font: 16pt/24pt arial,"san-serif";
+}
+
+.wrapper {
+    margin: 20px auto;
+    padding: 0 20px;
+}
+
+ul.links li {
+    list-style-type: none;
+    padding: 5px;
+}

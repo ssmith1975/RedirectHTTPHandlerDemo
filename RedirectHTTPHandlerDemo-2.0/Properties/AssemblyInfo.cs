@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("RedirectHTTPHandlerDemo")]
+[assembly: AssemblyTitle("RedirectHTTPHandlerDemo_3._5")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("RedirectHTTPHandlerDemo")]
+[assembly: AssemblyProduct("RedirectHTTPHandlerDemo_3._5")]
 [assembly: AssemblyCopyright("Copyright ©  2018")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("5ed0ee96-cf40-423e-bfca-f262957fdaf0")]
+[assembly: Guid("e4567cf1-7b1a-430c-acfc-8138812385a6")]
 
 // Version information for an assembly consists of the following four values:
 //
